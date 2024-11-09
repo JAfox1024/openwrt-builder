@@ -32,6 +32,9 @@ jobs:
           # P
           - "ramips mt7621 totolink_x5000r"
           - "mediatek filogic bananapi_bpi-r3"
+          # A
+          - "aarch64 generic"
+          - "aarch64 cortex-a53 generic"
 #        include:
 #          # W
 #          - target: "x86"
